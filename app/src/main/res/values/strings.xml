@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NoOTPLibrary</string>
+    <string name="action_call_to_verify">Call to Verify</string>
+
+    <string name="title_powered_by">powered by</string>
+    <string name="title_nootp">NoOTP</string>
+</resources>
